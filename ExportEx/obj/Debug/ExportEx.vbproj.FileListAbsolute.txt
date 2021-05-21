@@ -1,0 +1,11 @@
+D:\Project Vb\ExportEx\ExportEx\bin\Debug\ExportEx.exe.config
+D:\Project Vb\ExportEx\ExportEx\bin\Debug\ExportEx.exe
+D:\Project Vb\ExportEx\ExportEx\bin\Debug\ExportEx.pdb
+D:\Project Vb\ExportEx\ExportEx\bin\Debug\ExportEx.xml
+D:\Project Vb\ExportEx\ExportEx\obj\Debug\ExportEx.vbprojResolveAssemblyReference.cache
+D:\Project Vb\ExportEx\ExportEx\obj\Debug\ExportEx.Form1.resources
+D:\Project Vb\ExportEx\ExportEx\obj\Debug\ExportEx.Resources.resources
+D:\Project Vb\ExportEx\ExportEx\obj\Debug\ExportEx.vbproj.GenerateResource.Cache
+D:\Project Vb\ExportEx\ExportEx\obj\Debug\ExportEx.exe
+D:\Project Vb\ExportEx\ExportEx\obj\Debug\ExportEx.xml
+D:\Project Vb\ExportEx\ExportEx\obj\Debug\ExportEx.pdb
